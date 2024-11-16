@@ -1,0 +1,8 @@
+Valid ASCII: true
+Uppercased ASCII: "ABCDE"
+Length in bytes: 5
+Number of code points: 5
+Bytes per code point: 1 1 1 1 1
+Substring of the first 6 code points: "abcde"
+Code points as decimal numbers: 97 98 99 100 101
+Animal Emoji:

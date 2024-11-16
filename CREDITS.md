@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/2693776/removing-trailing-newline-character-from-fgets-input - used for "buffer[strcspn(buffer, "\n")] = 0;"
+https://codepoints.net/ - used for checking code point values and copying emojis to print.

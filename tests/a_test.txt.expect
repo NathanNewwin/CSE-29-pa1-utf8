@@ -1,0 +1,8 @@
+Valid ASCII: false
+Uppercased ASCII: "AAAááAáá"
+Length in bytes: 12
+Number of code points: 8
+Bytes per code point: 1 1 1 2 2 1 2 2
+Substring of the first 6 code points: "aaaááa"
+Code points as decimal numbers: 97 97 97 225 225 97 225 225
+Animal Emoji:

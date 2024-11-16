@@ -1,0 +1,8 @@
+Valid ASCII: false
+Uppercased ASCII: "MR. CRABS 🦀 LOVES $$$."
+Length in bytes: 25
+Number of code points: 22
+Bytes per code point: 1 1 1 1 1 1 1 1 1 1 4 1 1 1 1 1 1 1 1 1 1 1
+Substring of the first 6 code points: "Mr. Cr"
+Code points as decimal numbers: 77 114 46 32 67 114 97 98 115 32 129408 32 108 111 118 101 115 32 36 36 36 46
+Animal Emoji: 🦀
